@@ -1,5 +1,6 @@
 import { RepositoryItem } from './RepositoryItem'
 
+import '../styles/repositories.scss'
 
 
 export const RepositoryList = () => {
